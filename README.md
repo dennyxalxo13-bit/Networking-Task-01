@@ -6,7 +6,7 @@
  
 ---
  
-## 📋 Overview
+## Overview
  
 This task explores the fundamentals of computer networking by examining a real device's network configuration, understanding core networking concepts, creating a basic network topology diagram, and performing connectivity tests using command-line tools.
  
@@ -86,7 +86,7 @@ tracert google.com  # Trace the route packets take to a destination
  
 | Test | Result |
 |------|--------|
-| Ping to google.com | ✅ Successful — replies received |
+| Ping to google.com |  Successful — replies received |
 | Number of hops (tracert) | 4 hops (Router → ISP → ISP Gateway → Google) |
 | Purpose of Traceroute | Displays the path taken by packets and helps diagnose network issues |
  
